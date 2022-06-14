@@ -1,8 +1,9 @@
-import React from 'react';
-import { render } from 'react-dom';
+import React from "react";
+import { render } from "react-dom";
+import App from "./components/App";
+import './index.css';
 
 render(
-<div>Cryptochain is in react.
-    live
-</div>,document.getElementById('root')
+    <App/>,
+    document.getElementById("root")
 );
