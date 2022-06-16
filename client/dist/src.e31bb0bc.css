@@ -31,4 +31,18 @@ body {
     margin: 2%;
 }
 
+.Transaction {
+    padding: 3%;
+}
+
+.ConductTransaction, .TransactionPool {
+    margin: 10%;
+}
+
+
+a, a:hover {
+    color: palevioletred;
+    text-decoration: underline;
+}
+
 /*# sourceMappingURL=/src.e31bb0bc.css.map */
